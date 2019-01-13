@@ -1,0 +1,7 @@
+PYBER Observations
+
+1. Although average rural fares are higher than urban or suburban fares, they account for 5.3% of rides, which is too small a percentage of overall rides to be given much focus. Unsurprisingly, urban rides represent the bulk of rides with 68.4%.
+
+2. Suburban drivers give more rides per driver than any other category, given they represent 16.5% of overall drivers while accounting for 26.3% of total rides. This coupled with the fact that suburban fares have a higher average than urban fares demonstrate that suburban drivers likely earn more than urban or rural drivers.
+
+3. The urban market appears to have a surplus of drivers. We can see this given that 80.9% of total drivers are urban, yet only 68.4% of rides are from the same city-type. Although this imbalance is not necessarily a bad thing for Pyber, it does mean that urban drivers have lower average ride counts. This could potentially lead to less profit for drivers, longer idling times between rides, and less efficiency and "job satisfaction". Long term this trend could create higher driver turnover.
